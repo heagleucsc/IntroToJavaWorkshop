@@ -15,4 +15,11 @@
   <a href="https://repl.it/@heagle/GetInput">GetInput</a>
   This program shows how to get input from the keyboard.
   
+ # Day 2: Booleans
+ <a href="https://docs.google.com/presentation/d/1aYSTmvaFEBG5d1dWtHe88NFkTUzHxQA0E5YmJdTIxzQ/edit?usp=sharing">PowerPoint</a>
+ 
+  # Day 3: Booleans Continued 
+ <a href="https://docs.google.com/presentation/d/1aYSTmvaFEBG5d1dWtHe88NFkTUzHxQA0E5YmJdTIxzQ/edit?usp=sharing">PowerPoint</a>
+ 
+  
  
