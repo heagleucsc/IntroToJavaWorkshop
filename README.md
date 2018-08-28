@@ -20,8 +20,10 @@
  
  <a href="https://repl.it/@heagle/StringEquals">DoubleEquals</a><br>
   This program demonstartes how to check int and double equality.
+  
  <a href="https://repl.it/@heagle/StringEquals">StringEquals</a><br>
   This program checks if two strings are equal.
+  
   <a href="https://repl.it/@heagle/BooleanIntro">BooleanIntro</a><br>
   This program demonstrates an if-then statement with keyboard input.
  
