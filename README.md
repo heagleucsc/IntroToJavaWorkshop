@@ -52,7 +52,7 @@
   
   # Day 4: If-Else Statements
   
-  We will continue to work through the boolean powerpoint for day 4, foucusing on if, else if, and else statements.
+  We will continue to work through the boolean powerpoint for day 4, focusing on if, else if, and else statements.
   
   <a href="https://docs.google.com/presentation/d/1aYSTmvaFEBG5d1dWtHe88NFkTUzHxQA0E5YmJdTIxzQ/edit?usp=sharing"> Boolean PowerPoint</a>
  
