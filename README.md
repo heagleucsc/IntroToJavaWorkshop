@@ -82,9 +82,9 @@
   
   # Day 5: While Loops and Project 1
   
-  We will review last weeks challenges, introduce while loops and start project 1!
+  We will review last week's challenges, introduce while loops and start project 1!
   
-  <a href="https://docs.google.com/presentation/d/1IIOvBbNLSGQcZPYhVinx2IMPQaduulAsRuSYKzkfMAM/edit?usp=sharing"> While  Loops and Project 1 PowerPoint</a>
+  <a href="https://docs.google.com/presentation/d/1IIOvBbNLSGQcZPYhVinx2IMPQaduulAsRuSYKzkfMAM/edit?usp=sharing"> While Loop and Project 1 PowerPoint</a>
   
   <a href="https://repl.it/@heagle/Repeat5">Repeat5</a><br>
   A while loop that runs five times and counts down from 5.
