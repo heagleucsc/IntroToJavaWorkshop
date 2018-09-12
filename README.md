@@ -99,7 +99,7 @@
   
   We will review while loops and work on project 1!<br>
   
-  Please use this <a href="https://introcs.cs.princeton.edu/java/11cheatsheet/"> Java Basics Sheet</a> from Princeton's computer science department as a reference while you work on challenge problems and the project. The "Hello, World", built in data types, declaration and assignment statements, integers,  booleans, comparison operators, printing, if else statement, and while statement sections cover everything we've dicussed. You can also look at the old powerpoints and example code
+  Please use this <a href="https://introcs.cs.princeton.edu/java/11cheatsheet/"> Java Basics Sheet</a> from Princeton's computer science department as a reference while you work on challenge problems and the project. The "Hello, World", built in data types, declaration and assignment statements, integers,  booleans, comparison operators, printing, if else statement, and while statement sections cover everything we've dicussed. You can also look at the old PowerPoints and example code.
   
   <a href="https://docs.google.com/presentation/d/1IIOvBbNLSGQcZPYhVinx2IMPQaduulAsRuSYKzkfMAM/edit?usp=sharing"> While Loop and Project 1 PowerPoint</a>
   
