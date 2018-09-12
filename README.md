@@ -113,6 +113,6 @@
   Fortune Telling project starter code
   
   <a href="https://repl.it/@heagle/SimpleGame">SimpleGame</a><br>
-  Choose Your Own Advanture project starter code
+  Choose Your Own Adventure project starter code
   
  
