@@ -92,8 +92,8 @@
   <a href="https://repl.it/@heagle/NameRepeat">NameRepeat</a><br>
   Challenge 1.1
   
-  <a href="https://repl.it/@heagle/MadLibs">CountDown</a><br>
-  MChallenge 1.2
+  <a href="https://repl.it/@heagle/CountDown">CountDown</a><br>
+  Challenge 1.2
   
    # Day 6: Project 1
   
