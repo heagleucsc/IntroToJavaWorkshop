@@ -107,7 +107,7 @@
   <a href="https://repl.it/@heagle/MadLibs">MadLibs</a><br>
   Mad Libs project starter code
   
-  <a href="https://repl.it/@heagle/FortuneTelling">FortuneTeling</a><br>
+  <a href="https://repl.it/@heagle/FortuneTelling">FortuneTelling</a><br>
   Fortune Telling project starter code
   
   <a href="https://repl.it/@heagle/SimpleGame">SimpleGame</a><br>
