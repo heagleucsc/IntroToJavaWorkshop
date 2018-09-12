@@ -95,7 +95,7 @@
   <a href="https://repl.it/@heagle/MadLibs">CountDown</a><br>
   MChallenge 1.2
   
-   # Day 5: Project 1
+   # Day 6: Project 1
   
   We will review while loops and work on project 1!<br>
   
