@@ -80,19 +80,37 @@
   <a href="https://repl.it/@heagle/FourPointOne">FourPointOne</a><br>
   Challenge 4.1 answer
   
-  # Day 5: While Loops and Project 1
+  # Day 5: While Loops
   
-  We will review last week's challenges, introduce while loops and start project 1!
+  We will review last week's challenges and introduce while loops. Please reference the challenge answers from day 4 for the review portion of the powerpoint.
   
-  <a href="https://docs.google.com/presentation/d/1IIOvBbNLSGQcZPYhVinx2IMPQaduulAsRuSYKzkfMAM/edit?usp=sharing"> While Loop and Project 1 PowerPoint</a>
+  <a href="https://docs.google.com/presentation/d/1IIOvBbNLSGQcZPYhVinx2IMPQaduulAsRuSYKzkfMAM/edit?usp=sharing"> While Loop PowerPoint</a>
   
   <a href="https://repl.it/@heagle/Repeat5">Repeat5</a><br>
   A while loop that runs five times and counts down from 5.
+  
+  <a href="https://repl.it/@heagle/NameRepeat">NameRepeat</a><br>
+  Challenge 1.1
+  
+  <a href="https://repl.it/@heagle/MadLibs">CountDown</a><br>
+  MChallenge 1.2
+  
+   # Day 5: Project 1
+  
+  We will review while loops and work on project 1!
+  
+  <a href="https://docs.google.com/presentation/d/1IIOvBbNLSGQcZPYhVinx2IMPQaduulAsRuSYKzkfMAM/edit?usp=sharing"> While Loop and Project 1 PowerPoint</a>
   
   <a href="https://repl.it/@heagle/Continue">Continue</a><br>
   A while loop that runs as long as the user tells it to continue.
   
   <a href="https://repl.it/@heagle/MadLibs">MadLibs</a><br>
   Mad Libs project starter code
+  
+  <a href="https://repl.it/@heagle/FortuneTelling">FortuneTeling</a><br>
+  Fortune Telling project starter code
+  
+  <a href="https://repl.it/@heagle/SimpleGame">SimpleGame</a><br>
+  Choose Your Own Advanture project starter code
   
  
