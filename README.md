@@ -117,7 +117,7 @@
   
   # Day 7: For Loops and Project 1
   
-  We will learn about for loops and substrings. Afterwards, students will continue to work on their project 1.<br>
+  We will learn about for loops and substrings. Afterwards, we will continue to work on project 1.<br>
   
   Please use this <a href="https://introcs.cs.princeton.edu/java/11cheatsheet/"> Java Basics Sheet</a> from Princeton's computer science department as a reference while you work on challenge problems and the project. The "Hello, World", built in data types, declaration and assignment statements, integers,  booleans, comparison operators, printing, if else statement, while loop, and for loop statement sections cover everything we've dicussed. You can also look at the old PowerPoints and example code.
   
