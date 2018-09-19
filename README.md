@@ -115,4 +115,30 @@
   <a href="https://repl.it/@heagle/SimpleGame">SimpleGame</a><br>
   Choose Your Own Adventure project starter code
   
+  # Day 7: For Loops and Project 1
+  
+  We will learn about for loops and substrings. Afterwards, students will continue to work on their project 1.<br>
+  
+  Please use this <a href="https://introcs.cs.princeton.edu/java/11cheatsheet/"> Java Basics Sheet</a> from Princeton's computer science department as a reference while you work on challenge problems and the project. The "Hello, World", built in data types, declaration and assignment statements, integers,  booleans, comparison operators, printing, if else statement, while loop, and for loop statement sections cover everything we've dicussed. You can also look at the old PowerPoints and example code.
+  
+  <a href="https://docs.google.com/presentation/d/11dHEeVdb-E9AtU4tlm8gN3k433zOAqLPpbAbztIKT5E/edit?usp=sharing"> For Loop PowerPoint</a>
+  
+  <a href="https://repl.it/@heagle/ForLoopEx">ForLoopEx</a><br>
+  A basic for loop that loops 10 times and prints the value of i each time
+  
+  <a href="https://repl.it/@heagle/WhileToFor">WhileToFor</a><br>
+  A while loop for you to convert into a for loop
+  
+  <a href="https://repl.it/@heagle/SubstringEx">SubstringEx</a><br>
+  An example of how to use the String method substring
+  
+  <a href="https://repl.it/@heagle/MadLibs">MadLibs</a><br>
+  Mad Libs project starter code
+  
+  <a href="https://repl.it/@heagle/FortuneTelling">FortuneTelling</a><br>
+  Fortune Telling project starter code
+  
+  <a href="https://repl.it/@heagle/SimpleGame">SimpleGame</a><br>
+  Choose Your Own Adventure project starter code
+  
  
