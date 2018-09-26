@@ -141,4 +141,19 @@
   <a href="https://repl.it/@heagle/SimpleGame">SimpleGame</a><br>
   Choose Your Own Adventure project starter code
   
+ # Day 8: Methods and Project 1
  
+ We will learn about methods and work on some CodingBat problems. W will also continue working on Project 1.
+ 
+ <a href="https://codingbat.com/java">CodingBat</a><br>
+ A website with coding problems
+ 
+ Please use this <a href="https://introcs.cs.princeton.edu/java/11cheatsheet/"> Java Basics Sheet</a> from Princeton's computer science department as a reference while you work on challenge problems and the project. The "Hello, World", built in data types, declaration and assignment statements, integers,  booleans, comparison operators, printing, if else statement, while loop, and for loop statement sections cover everything we've dicussed. You can also look at the old PowerPoints and example code.
+ 
+<a href="https://docs.google.com/presentation/d/1HPSrGwvnbZMB7H4Irh6B2D22s80XoH7OpqafK-nA12g/edit?usp=sharing"> Methods PowerPoint</a>
+  
+<a href="https://repl.it/@heagle/Add">Add</a><br>
+A user written void method that adds two ints
+  
+<a href="https://repl.it/@heagle/AddInt">AddInt</a><br>
+A user written int method that adds two ints
