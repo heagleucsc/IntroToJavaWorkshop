@@ -143,7 +143,7 @@
   
  # Day 8: Methods and Project 1
  
- We will learn about methods and work on some CodingBat problems. W will also continue working on Project 1.
+ We will learn about methods and work on some CodingBat problems. We will also continue working on Project 1.
  
  <a href="https://codingbat.com/java">CodingBat</a><br>
  A website with coding problems
