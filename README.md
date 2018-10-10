@@ -171,3 +171,15 @@ A website with coding problems
 
 <a href="https://repl.it/@heagle/StringLength">StringLength</a><br>
 Code demonstrates the String length() method
+
+# Day 10: Arrays and Project 1 
+
+We will learn about arrays. Students will present their first project.
+
+Please use this <a href="https://introcs.cs.princeton.edu/java/11cheatsheet/"> Java Basics Sheet</a> from Princeton's computer science department as a reference while you work on challenge problems and the project. The "Hello, World", built in data types, declaration and assignment statements, integers,  booleans, comparison operators, printing, if else statement, while loop, and for loop statement sections cover everything we've dicussed. You can also look at the old PowerPoints and example code.
+
+<a href="https://docs.google.com/presentation/d/1ImUEhgsLuuEQWC3ECbR9aB58oGQ5fRKCtkInqJtxYRg/edit?usp=sharing"> Array PowerPoint</a>
+
+<a href="https://docs.google.com/document/d/12fCoDwOgS7QA1Yc8t5A97Hf8_3aRF31nDccl_JWHz00/edit?usp=sharing"> Project 1 Links</a>
+ 
+
