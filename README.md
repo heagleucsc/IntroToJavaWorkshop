@@ -181,5 +181,11 @@ Please use this <a href="https://introcs.cs.princeton.edu/java/11cheatsheet/"> J
 <a href="https://docs.google.com/presentation/d/1ImUEhgsLuuEQWC3ECbR9aB58oGQ5fRKCtkInqJtxYRg/edit?usp=sharing"> Array PowerPoint</a>
 
 <a href="https://docs.google.com/document/d/12fCoDwOgS7QA1Yc8t5A97Hf8_3aRF31nDccl_JWHz00/edit?usp=sharing"> Project 1 Links</a>
+
+<a href="https://repl.it/@heagle/RandomSentence">RandomSentence</a><br>
+Code generates a random sentence
+
+<a href="https://repl.it/@heagle/RandomMadLib">RandomMadLib</a><br>
+Code generates a random MadLib
  
 
